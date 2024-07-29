@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: dkimisima/gitopsfc
-  newTag: 674d0f801f7b609293ce39a547c93e136f8be8bd
+  newTag: 6d3bad6504202fef53bbf78ad068ec03a35e109c
